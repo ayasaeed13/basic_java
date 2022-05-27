@@ -1,0 +1,22 @@
+
+body{
+    font-family: Impact;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    margin-bottom: 2rem;
+    margin-top: 0.4rem;
+}
+button:hover{
+    background-color: green;
+}
+h1{
+    font-size: 80px;
+    font-weight: 900;
+}
+p{
+    font-size: 35px;
+}
